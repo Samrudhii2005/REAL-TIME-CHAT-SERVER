@@ -30,3 +30,4 @@ The chat system is designed to be run as a standalone backend service. Any front
 
 Overall, this project provides a functional and educational example of building real-time applications in Python using FastAPI and WebSockets. It showcases key concepts in asynchronous programming, persistent connections, and event-driven architecture. Whether you're building a scalable chat platform, a collaborative tool, or learning how real-time protocols work, this project offers a strong foundation.
 
+<img width="786" height="407" alt="Image" src="https://github.com/user-attachments/assets/ac151df1-bc7d-423e-bf4b-0ad8d21475c5" />
